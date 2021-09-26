@@ -7,4 +7,7 @@ package com.wenjian;
  * @date 2021/9/26 - 14:17
  */
 public class gitTest {
+    public static void main(String[] args) {
+
+    }
 }
